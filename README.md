@@ -1,2 +1,3 @@
 # test - gui
-úprava číslo 2
+úprava na webu
+uprava v branchi
